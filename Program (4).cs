@@ -35,7 +35,7 @@ namespace ReviewApp
             else if (holisterol >= 120)
                 Console.WriteLine("walk 1 hour");
 
-
+//alagi kodika
         }
 
         public static void mikos()
