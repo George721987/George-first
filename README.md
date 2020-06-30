@@ -1,1 +1,1 @@
-# George-first
+# George-first Github first exercise
